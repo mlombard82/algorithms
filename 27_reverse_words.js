@@ -87,4 +87,3 @@ function reverseCharacters(messageArray, startIndex, endIndex){
         endIndex--;
     }
 }
-
